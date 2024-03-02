@@ -6,3 +6,5 @@ user1 = input ("plz enter your name: ")
 age = input("plz enter your age : ")
 
 print ("Hello ", user1, " you are ", age, " years old")
+
+print ("Nice to see you")
