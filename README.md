@@ -18,3 +18,4 @@ print ("ehe")
 print ("Wow")
 
 print ("haha")
+print ("haha")
